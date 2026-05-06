@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": { "item": "minecraft:copper_block" },
+    "B": { "item": "minecraft:netherite_block" },
+    "C": { "item": "minecraft:iron_block" },
+    "D": { "item": "minecraft:beacon" },
+    "E": { "item": "minecraft:dragon_egg" },
+    "F": { "item": "minecraft:beacon" },
+    "G": { "item": "minecraft:gold_block" },
+    "H": { "item": "minecraft:end_crystal" },
+    "I": { "item": "minecraft:diamond_block" }
+  },
+  "result": {
+    "item": "end_crown:end_crown",
+    "count": 1
+  }
+}

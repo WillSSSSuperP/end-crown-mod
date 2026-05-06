@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "end_crown:end_crown"
+    },
+    "title": {
+      "translate": "advancement.end_crown.fate_and_end.title"
+    },
+    "description": {
+      "translate": "advancement.end_crown.fate_and_end.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "end_crown:textures/gui/end_crown_background.png"
+  },
+  "criteria": {
+    "get_end_crown": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "end_crown:end_crown"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
