@@ -1,0 +1,13 @@
+{
+  "item.end_crown.end_crown": "End crown",
+  "item.end_crown.end_crown_totem": "Placeholder item for playing animations",
+  "itemGroup.end_crown": "Crown of god",
+  "effect.end_crown.divine_intimidation": "Divine might deterrence",
+  "effect.end_crown.crown_cooldown": "Cooling",
+  "effect.end_crown.blessing": "Blessing",
+  "effect.end_crown.unyielding_will": "Indomitable will",
+  "advancement.end_crown.fate_and_end.title": "The Gift of Fate and the End",
+  "advancement.end_crown.fate_and_end.description": "When you win the crown, destiny has already made its choice",
+  "message.end_crown.adapted": "EndCrown has adapted to the current armor set",
+  "tooltip.end_crown.disguise": " (Crown Disguise)"
+}

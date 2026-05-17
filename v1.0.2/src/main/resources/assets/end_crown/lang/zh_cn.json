@@ -1,0 +1,13 @@
+{
+  "item.end_crown.end_crown": "终焉冠冕",
+  "item.end_crown.end_crown_totem": "用于播放动画的占位物品",
+  "itemGroup.end_crown": "神之桂冠",
+  "effect.end_crown.divine_intimidation": "神威震慑",
+  "effect.end_crown.crown_cooldown": "冷却",
+  "effect.end_crown.blessing": "加持",
+  "effect.end_crown.unyielding_will": "不屈的意志",
+  "advancement.end_crown.fate_and_end.title": "命运与终焉的馈赠",
+  "advancement.end_crown.fate_and_end.description": "当你获得桂冠，命运已然作出选择",
+  "message.end_crown.adapted": "冠冕已适配套装",
+  "tooltip.end_crown.disguise": "(冠冕幻化)"
+}
